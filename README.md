@@ -19,4 +19,4 @@
 
 **Advanced automod system made by Technologypower#3174 for discord.js v14 only**
 
-*Be sure to give credits :D*
+*Be sure to give credits :D, Also don't forget to join my discord server - https://discord.gg/mjY3hSYn4P *
