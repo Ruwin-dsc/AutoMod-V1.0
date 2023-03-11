@@ -12,3 +12,5 @@ const automod = new mongoose.Schema({
 });
 
 module.exports = mongoose.model('automod', automod);
+
+console.log("Be sure to join my discord server - https://discord.gg/mjY3hSYn4P ")
